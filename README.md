@@ -3,7 +3,14 @@
 - [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
-## Programming Languages
+## Programming Languages Theory
+
+### Learning Path
+
+- [The design side of programming language design](http://tomasp.net/blog/2017/design-side-of-pl/)
+- [Programming Language Theory](https://steshaw.org/plt/)
+
+### Resources
 
 - [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages/home/welcome)
 - [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b/home/welcome)
