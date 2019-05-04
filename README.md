@@ -20,9 +20,10 @@
 - [[Video] CS173 Brown University - Programming Languages](https://www.youtube.com/playlist?list=PL-R-PWkyRREf3Zjk6UFI5mhKt9XuLMC3G)
 - [[Videos] Theory of Programming Language](https://www.youtube.com/playlist?list=PLKXOz27AMknH_Kj_-s-1GtHny7D_9c1QW)
 
-## Type
+### Type
 
 - [[Videos] Types, Logic, Semantics, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php)
+- [[Paper] https://github.com/jonsterling/type-theory-and-its-meaning-explanations](https://github.com/jonsterling/type-theory-and-its-meaning-explanations)
 
 ## Paralelism
 
