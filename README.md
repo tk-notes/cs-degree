@@ -25,6 +25,6 @@
 - [[Videos] Types, Logic, Semantics, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php)
 - [[Paper] https://github.com/jonsterling/type-theory-and-its-meaning-explanations](https://github.com/jonsterling/type-theory-and-its-meaning-explanations)
 
-## Paralelism
+### Paralelism
 
 - [[Videos] Parallelism and Concurrency](https://www.cs.uoregon.edu/research/summerschool/summer18/topics.php)
